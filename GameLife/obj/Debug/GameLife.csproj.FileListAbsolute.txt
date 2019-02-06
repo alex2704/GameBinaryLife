@@ -1,0 +1,13 @@
+D:\CreatingMyPrograms\GameLife\GameLife\obj\Debug\GameLife.csprojAssemblyReference.cache
+D:\CreatingMyPrograms\GameLife\GameLife\obj\Debug\GameLife.Form1.resources
+D:\CreatingMyPrograms\GameLife\GameLife\obj\Debug\GameLife.Properties.Resources.resources
+D:\CreatingMyPrograms\GameLife\GameLife\obj\Debug\GameLife.csproj.GenerateResource.cache
+D:\CreatingMyPrograms\GameLife\GameLife\obj\Debug\GameLife.csproj.CoreCompileInputs.cache
+D:\CreatingMyPrograms\GameLife\GameLife\bin\Debug\GameLife.exe.config
+D:\CreatingMyPrograms\GameLife\GameLife\bin\Debug\GameLife.exe
+D:\CreatingMyPrograms\GameLife\GameLife\bin\Debug\GameLife.pdb
+D:\CreatingMyPrograms\GameLife\GameLife\bin\Debug\LifeLibrary.dll
+D:\CreatingMyPrograms\GameLife\GameLife\bin\Debug\LifeLibrary.pdb
+D:\CreatingMyPrograms\GameLife\GameLife\obj\Debug\GameLife.csproj.CopyComplete
+D:\CreatingMyPrograms\GameLife\GameLife\obj\Debug\GameLife.exe
+D:\CreatingMyPrograms\GameLife\GameLife\obj\Debug\GameLife.pdb

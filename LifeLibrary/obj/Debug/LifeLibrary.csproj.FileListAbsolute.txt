@@ -1,0 +1,6 @@
+D:\CreatingMyPrograms\GameLife\LifeLibrary\bin\Debug\LifeLibrary.dll
+D:\CreatingMyPrograms\GameLife\LifeLibrary\bin\Debug\LifeLibrary.pdb
+D:\CreatingMyPrograms\GameLife\LifeLibrary\obj\Debug\LifeLibrary.csprojAssemblyReference.cache
+D:\CreatingMyPrograms\GameLife\LifeLibrary\obj\Debug\LifeLibrary.csproj.CoreCompileInputs.cache
+D:\CreatingMyPrograms\GameLife\LifeLibrary\obj\Debug\LifeLibrary.dll
+D:\CreatingMyPrograms\GameLife\LifeLibrary\obj\Debug\LifeLibrary.pdb
